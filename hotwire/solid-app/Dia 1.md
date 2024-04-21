@@ -27,8 +27,6 @@ import "@hotwired/turbo-rails"
 Turbo.session.drive = false
 ```
 
-O modo padrão do Turbo é o *replace*. O que ele faz por debaixo dos panos é
-
 # Flash messages
 
 O Turbo a novo link que você abre, faz um cache da página atual.
